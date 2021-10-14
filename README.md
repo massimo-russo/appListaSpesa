@@ -1,2 +1,2 @@
 # task
-https://massimo-russo.github.io/task/
+https://massimo-russo.github.io/appListaSpesa/
